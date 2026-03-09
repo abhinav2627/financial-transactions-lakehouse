@@ -103,7 +103,7 @@ financial-transactions-lakehouse/
 
 **1. Clone this repo**
 ```bash
-git clone https://github.com/YOUR_USERNAME/financial-transactions-lakehouse.git
+git clone https://github.com/abhinav2627/financial-transactions-lakehouse.git
 ```
 
 **2. Import notebooks to Databricks**
@@ -189,8 +189,8 @@ This is **Project 1** of a 6-month data engineering portfolio series:
 ## 👤 Author
 
 **Abhinav Mandal**
-- LinkedIn: [linkedin.com/in/YOUR_HANDLE](https://linkedin.com)
-- GitHub: [github.com/YOUR_USERNAME](https://github.com)
+- LinkedIn: https://www.linkedin.com/in/abhinavmandal27/
+- GitHub: https://github.com/abhinav2627
 
 ---
 
